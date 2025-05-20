@@ -1,0 +1,22 @@
+{
+  "name": "discord-tokens-spammer",
+  "version": "1.0.0",
+  "description": "A script using node native and discord.javascript to spam messages in all the lounges of a server . ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "selfbot",
+    "Tokens-spammer",
+    "token"
+  ],
+  "author": "TonNomOuPseudo",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.6.12",
+    "ms": "^2.1.3"
+  }
+}
