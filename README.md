@@ -1,6 +1,6 @@
 # Discord Tokens Spammer
 
-A script using Node.js and native Discord API calls (via `node-fetch`) to send messages in all the text channels of a server at regular intervals (every 20 minutes), using multiple user tokens.
+A script using Node.js and native Discord API calls (via `node-fetch`) to send messages in all the text channels of a server at regular intervals, using multiple user tokens.
 
 > ⚠️ **I remind you that this code is for educational and demonstrative purposes.**  
 > It was originally used to test the anti-spam system of the **Wardex Protection Bot**.  
