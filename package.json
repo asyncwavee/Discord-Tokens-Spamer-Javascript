@@ -12,7 +12,7 @@
     "Tokens-spammer",
     "token"
   ],
-  "author": "TonNomOuPseudo",
+  "author": "Wavee",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.5",
