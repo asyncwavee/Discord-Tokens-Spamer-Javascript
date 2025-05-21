@@ -5,7 +5,7 @@ const TOKENS = process.env.TOKENS.split(',').map(t => t.trim()).filter(Boolean);
 const GUILD_ID = process.env.GUILD_ID;
 const MESSAGE = process.env.MESSAGE;
 
-if (!TOKENS.length) {
+if (!TOKENS.length > 0) {
   console.error('❌ Aucun token fourni dans .env');
   process.exit(1);
 }
