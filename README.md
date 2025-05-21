@@ -10,7 +10,7 @@ A script using Node.js and native Discord API calls (via `node-fetch`) to send m
 
 ## 📦 Features
 
-- ✅ Sends messages every 20 minutes in all text channels of a specific guild
+- ✅ Sends messages every minutes in all text channels of a specific guild
 - ✅ Uses multiple user tokens
 - ✅ Filters and displays only valid tokens
 - ✅ Checks if tokens are in the server
